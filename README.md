@@ -7,6 +7,7 @@ Express application to write and save notes, keep track of tasks, and organize t
 
 ## Criteria
 GIVEN a note-taking application
+
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
 
