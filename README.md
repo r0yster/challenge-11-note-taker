@@ -1,4 +1,4 @@
-# challenge-11-note-taker
+# note-taker
 
 ## Description
 Express application to write and save notes, keep track of tasks, and organize thoughts
